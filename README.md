@@ -4,6 +4,8 @@ A Streamlit dashboard for visualizing greenhouse climate, tomato yield, and reso
 ## 🌿 Live Dashboard
 
 👉 [Click here to view the Streamlit Dashboard](https://greenhousedashboard-g.streamlit.app/)
+## Dataset source
+Source: https://www.kaggle.com/datasets/piantic/autonomous-greenhouse-challengeagc-2nd-2019/data
 
 Explore greenhouse team performance, resource efficiency, and climate trends in real-time!
 
