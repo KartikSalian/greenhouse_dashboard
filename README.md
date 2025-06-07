@@ -1,6 +1,5 @@
 # greenhouse_dashboard
 A Streamlit dashboard for visualizing greenhouse climate, tomato yield, and resource efficiency across autonomous farming teams.
-# 🌿 Autonomous Greenhouse Dashboard
 
 ## 🌿 Live Dashboard
 
@@ -8,7 +7,7 @@ A Streamlit dashboard for visualizing greenhouse climate, tomato yield, and reso
 
 Explore greenhouse team performance, resource efficiency, and climate trends in real-time!
 
-
+# 🌿 Autonomous Greenhouse Dashboard
 An interactive Streamlit dashboard to explore climate, yield, and resource metrics from the **Autonomous Greenhouse Challenge** dataset.
 
 ## 🚀 Features
