@@ -24,7 +24,7 @@ This interactive dashboard provides real-time insights into greenhouse operation
 ## 📁 Dataset
 
 The dashboard uses data from the **WUR Autonomous Greenhouse Challenge**, which includes:
-data link: https://www.kaggle.com/datasets/piantic/autonomous-greenhouse-challengeagc-2nd-2019/data
+🔗 **[Data Source] (https://www.kaggle.com/datasets/piantic/autonomous-greenhouse-challengeagc-2nd-2019/data)**
 - Environmental control data (e.g., heating, CO₂, lighting)
 - Sensor readings from inside the greenhouse
 - Weather data
